@@ -24,6 +24,6 @@ Categorization Accuracy
 <br>
 https://github.com/shermanpch/shopee-product-detection/blob/main/EfficientNetB4.ipynb
 
-**Shopee Code League - Marketing Analysis**
+**Shopee Code League - Product Detection**
 <br>
 https://www.kaggle.com/c/shopee-product-detection-open
